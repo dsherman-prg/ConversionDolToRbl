@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConversionDolToRbl</string>
+    <string name="title">Russian Ruble Conversion</string>
+    <string name="txtHint">Amount to Convert</string>
+    <string name="txtDolToRbl">Convert Dollars to Rubles</string>
+    <string name="txtRblToDol">Convert Rubles to Dollars</string>
+    <string name="txtButton">Convert Currency</string>
+</resources>
